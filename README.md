@@ -1,11 +1,11 @@
 ### Hi there 👋
-I'm a developer. I like to create Telegram bots, websites and (rarely) games.
+I'm a developer. I like to create Telegram bots, websites and (rarely) games.  
 I love coding.
 My Telegram: [@mallo_c](https://t.me/mallo_c)
 ### My profile see
 ![counter](https://profile-counter.glitch.me/mallo-c/count.svg) 
 
-### I need your support!
+### Donate
 * (via @CryptoBot) http://t.me/CryptoBot?start=IViUToHg5AHD
 * (ETH & Binance on ETH) 0x396588da42e6CC278FaDA8dCd139AC7a5A56C372
 * (TON) EQBU37LNWsX5BVeRJuTA1Bg3LNkyPvFPChpUh2V1PQY54Rzz
