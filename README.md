@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a developer. I like to create Telegram bots, websites and (rarely) games.
 I love coding.
 My Telegram: [@mallo_c](https://t.me/mallo_c)
 ### My profile see
