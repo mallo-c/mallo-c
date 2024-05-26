@@ -1,5 +1,6 @@
 ## Hi there 👋
 I am **@mallo_c** ⚡
+Pronounce: /mal lok/
 
 I know Python, Go, JavaScript and a bit of C++. Also I'm learning Rust.
 
